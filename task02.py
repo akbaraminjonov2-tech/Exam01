@@ -1,6 +1,6 @@
 a = 5
 b = 7
 
-result = a + b 
+natija = a + b
 
-print(result)
+print(natija)
