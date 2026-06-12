@@ -1,6 +1,5 @@
-a = 5
-b = 7
+son = 3
 
-result = a + b 
+result = son ** 2
 
 print(result)
